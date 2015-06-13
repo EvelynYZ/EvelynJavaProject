@@ -6,12 +6,12 @@ This is a paragraph. We can write __bold__ and _italics_ by using either undersc
 We can also write code. There are various ways:
 Inlice 'code'.
 
-...
+'''
 Code blocks can be written.
 public void main(String[] args) {
   //Something
 }
-...
+'''
 
 ### This is a heading-3
 
