@@ -4,7 +4,7 @@
 This is a paragraph. We can write __bold__ and _italics_ by using either underscores or asterisks (**bold**, *italics*).
 
 We can also write code. There are various ways:
-Inlice 'code'.
+Inlice `code`.
 
 ```
 Code blocks can be written.
